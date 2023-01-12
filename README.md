@@ -1,11 +1,11 @@
 # Computer-Networking
-#Tanmeet Butani
-#Net id: tsb3500
-#Student ID: 3460267
+Tanmeet Butani
+Net id: tsb3500
+Student ID: 3460267
 
-#Shamika Likhite
-#Net id: SLA7577
-#Student Id: 3402793
+Shamika Likhite
+Net id: SLA7577
+Student Id: 3402793
 
 This project aims with developing a web server based on https://canvas.northwestern.edu/courses/175149/files/14446240?wrap=1
 It creates a simple web client and a web server using Unix socket programming and the HTTP protocol (HTTP 1.0).
