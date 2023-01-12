@@ -12,11 +12,11 @@ It creates a simple web client and a web server using Unix socket programming an
 
 Part 1: It is a simple command-line HTTP client implemented using the BSD socket interface. It runs a Unix curl command and uses python’s socket package. Only HTTP get method is supported for this program. It takes only an HTTP web address to fetch and print the body of the HTML file rfc2616.html.
 The code for this part is http_client.py
-Here is the code: https://github.com/tanmeet1/CS340-Northwestern/blob/main/http_client.py
+Here is the code: https://github.com/shami09/Computer-Network/blob/main/http_client.py
 
 Part 2: The code for this part deal with making a web server (HTTP server) that handles one client at a time.
 The code for this part is http_server1.py
-Here is the link to the code: https://github.com/tanmeet1/CS340Northwestern/blob/main/http_server1.py
+Here is the link to the code: https://github.com/shami09/Computer-Network/blob/main/http_server1.py
 
 Part 3: The server in the previous part can handle one connection at a time. The server in this part can handle multiple connections at a time.
 This server avoids two main problems:
